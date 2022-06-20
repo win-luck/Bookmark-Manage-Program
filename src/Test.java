@@ -10,5 +10,6 @@ public class Test {
 	public static void main(String[] args) throws Exception {
 		BookmarkList BMList = new BookmarkList("./bookmark.txt");
 		BookmarkManager frame = new BookmarkManager(BMList);
+		// 주석처리가 되었나요?
 	}
 }
