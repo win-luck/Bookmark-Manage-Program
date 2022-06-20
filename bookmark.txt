@@ -1,0 +1,9 @@
+EASY,2022-05-05_17:26,http://kbstar.com/,Bank,
+Woori,2022-05-29_14:41,http://www.Wooribank.co.kr,Bank,HI
+LOL,2022-05-31_22:24,http://www.lol.com,Game,
+TPR,2022-05-29_12:30,http://WEARE.COM,,
+,2022-06-01_21:20,http://thankyouProfessor.com,,
+Daum,2021-01-02_15:49,http://www.daum.net/,portal,
+newnew,2022-05-30_11:54,http://node.co.kr,portal,
+Naver,2021-01-02_15:49,http://naver.com/,portal,Home
+SNU,2021-01-02_15:49,http://SNU.or.kr,,
