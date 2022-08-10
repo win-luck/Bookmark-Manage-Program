@@ -1,2 +1,2 @@
 # BookmarkManager
-2022-1 SoftwareProject Assignment
+2022-1 SoftwareProject
